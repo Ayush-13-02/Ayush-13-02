@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-# ![r6YemvF9_400x400](https://user-images.githubusercontent.com/87691871/170479708-ddd7ce96-9c30-485b-8782-f5d31186dba9.jpg) GitHub Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ayush-13-02&count_private=true&theme=tokyonight&showicons=true)]()
 
+<div style="display: flex; display: -webkit-box; display: -webkit-flex;">
+ <img src="https://github-readme-stats.vercel.app/api?username=Ayush-13-02&show_icons=true&title_color=0cebba&icon_color=0cebba&bg_color=0d1117&text_color=FFF&border_color=444&count_private=true" style="margin-right:250px;">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Ayush-13-02&theme=green_nur&&background=0d1117&border=444">
+ </div>
+ 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-13-02&langs_count=5&theme=tokyonight)]()
