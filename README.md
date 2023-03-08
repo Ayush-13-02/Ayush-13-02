@@ -1,18 +1,15 @@
 
 
-<!-- **Ayush-13-02/Ayush-13-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Ayush-13-02/Ayush-13-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+
+- 🔭 I’m currently working on **(Institute Website)**
+- 🌱 I’m currently learning **Next.js**
+- 💬 Ask me about **Django, **React.js
+- 📫 How to reach me: **(ayushsharma13jun@gmail.com)**
+- ⚡ Fun fact: **(Which I don't think i do that, Which I think, I never do that 😄)**
+ 
 
 
 
