@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **(Institute Website)**
 - 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **Django, **React.js
+- 💬 Ask me about **Django**, **React.js**
 - 📫 How to reach me: **(ayushsharma13jun@gmail.com)**
-- ⚡ Fun fact: **(Which I don't think i do that, Which I think, I never do that 😄)**
+- ⚡ Fun fact: **(I am lazy 🥱, So I work mostly to make work easily 😎)**
  
 
 
