@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **Django**, **React.js**
 - 📫 How to reach me: **(ayushsharma13jun@gmail.com)**
-- ⚡ Fun fact: **(I am lazy 🥱, So I work mostly to make work easily 😎)**
+- ⚡ Fun fact: **(I am lazy 🥱, That's why I spend a lot of time making thing easier 😎)**
  
 
 
